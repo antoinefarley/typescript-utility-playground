@@ -26,7 +26,7 @@ type User = {
 type UserWithPrefix = AddPrefixToObjectValues<User, 'new'>;
 
 /*
- type HashedType = {
+ type UserWithPrefix = {
   name: 'new-name';
   email: 'new-email';
   bio: 'new-bio';
