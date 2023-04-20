@@ -1,0 +1,12 @@
+Pick
+Omit
+Partial
+Required
+Exclude
+Extract
+NonNullable
+Parameters
+ReturnType
+Awaited
+Record
+String Manipulation

@@ -1,0 +1,9 @@
+{
+  "name": "shareland-api",
+  "version": "0.1.54",
+  "devDependencies": {
+    "prettier": "^2.8.7",
+    "typescript": "^5.0.4"
+  },
+  "license": "UNLICENCED"
+}
